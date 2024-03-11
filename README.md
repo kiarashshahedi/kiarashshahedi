@@ -1,5 +1,12 @@
-# 💫About Me :
-Python backend developer ....
+
+Backend Developer 
+< Python >
+- Django -
+- API > Django restFramework - FastAPI
+- DataBases > MySql - SQLite3 - Redis - MongoDB - PostgreSQL
+- Docker 
++ DesignPatterns 
++ Front > include HTML-CSS-JS-BootStrap-
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiarashshahedi) 
@@ -11,8 +18,5 @@ Python backend developer ....
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kiarashshahedi&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiarashshahedi&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kiarashshahedi&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=kiarashshahedi&icon=2&color=4)](https://visitcount.itsvg.in)
