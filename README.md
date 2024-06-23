@@ -5,13 +5,11 @@
 ## About Me
 I am a passionate Full Stack Developer from [Your Country].
 
-- 🔭 I’m currently working on [Project Name]
-- 🌱 I’m currently learning [Technology/Tool]
-- 👯 I’m looking to collaborate on [Project/Tech]
-- 🤔 I’m looking for help with [Topic]
-- 💬 Ask me about [Tech/Projects]
-- 📫 How to reach me: [Email/LinkedIn]
-- ⚡ Fun fact: [Something interesting about you]
+- 🔭 I’m currently working on a mobile app
+- 🌱 I’m currently learning flutter
+- 💬 Ask me about -everything-you-want
+- 📫 How to reach me: [shahedikiarash@gmail.com]
+- ⚡ Fun fact: press words with wordpress !
 
 ## 🛠️ Technologies & Tools
 ### Languages
