@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Kiarash Shahedi 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 
@@ -14,20 +14,29 @@ I am a passionate Full Stack Developer from [Your Country].
 - ⚡ Fun fact: [Something interesting about you]
 
 ## 🛠️ Technologies & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) 
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker) 
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
-![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=flat&logo=visual-studio-code)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
-![React Native](https://img.shields.io/badge/-React_Native-05122A?style=flat&logo=react)
-![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/-React_Native-05122A?style=for-the-badge&logo=react)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=for-the-badge&logo=redis)
+
+### Tools
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=for-the-badge&logo=visual-studio-code)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -37,6 +46,6 @@ I am a passionate Full Stack Developer from [Your Country].
 [![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
