@@ -1,4 +1,4 @@
-# Hi there, I'm Kiarash Shahedi 👋
+# I'm Kiarash Shahedi
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 
