@@ -5,24 +5,20 @@
 ## About Me
 I am a passionate Full Stack Developer from [Your Country].
 
-- 🔭 I’m currently working on a mobile app
-- 🌱 I’m currently learning flutter
-- 💬 Ask me about -everything-you-want
-- 📫 How to reach me: [shahedikiarash@gmail.com]
-- ⚡ Fun fact: press words with wordpress !
+- 🔭 I’m currently working on a Django app
+- 🌱 I’m currently learning new applications
+- 💬 Ask me on email 📫: [shahedikiarash@gmail.com]
 
 ## 🛠️ Technologies & Tools
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
 
 ### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/-React_Native-05122A?style=for-the-badge&logo=react)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-05122A?style=for-the-badge&logo=express)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=for-the-badge&logo=django)
 
 ### Databases
