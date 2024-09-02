@@ -32,13 +32,6 @@ I am a passionate Full Stack Developer from [Your Country].
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS_Code-05122A?style=for-the-badge&logo=visual-studio-code)
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&layout=compact)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/kiarashshahedi](https://www.linkedin.com/in/kiarash-shahedi-developer))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahedikiarash@gmail.com)
