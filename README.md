@@ -86,5 +86,6 @@
 
 🔗 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kiarash-shahedi)
 :** [linkedin.com/in/kiarash-shahedi](https://www.linkedin.com/in/kiarash-shahedi/)  
-📧 **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)  
+📧 **[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:shahedikiarash@gmail.com)
+:** [shahedikiarash@gmail.com](mailto:shahedikiarash@gmail.com)  
 ---
