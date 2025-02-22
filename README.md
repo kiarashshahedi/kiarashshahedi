@@ -84,8 +84,7 @@
 ## 📫 Let's Connect  
 💬 Feel free to reach out for collaboration or discussions!  
 
-🔗 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile/)  
-📧 **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)  
-🌍 **Portfolio:** [yourportfolio.com](https://yourportfolio.com/)  
+🔗 **[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kiarash-shahedi):** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kiarash-shahedi)  
+📧 **(https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:shahedikiarash@gmail.com):** [shahedikiarash@gmail.com](mailto:your.email@gmail.com)  
 
 ---
