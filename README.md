@@ -7,10 +7,9 @@
   🚀 Python & Django Developer | Passionate about building scalable web applications.
 </p>
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=firefox)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your.email@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/kiarashshahedi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kiarash-shahedi)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:shahedikiarash@gmail.com)
 
 ---
 
