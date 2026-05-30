@@ -25,10 +25,10 @@
 ## 🧠 About Me
 
 ```python
-class SeniorEngineer:
+class SoftwareEngineer:
     def __init__(self):
         self.name        = "Kiarash Shahedi"
-        self.role        = "Senior Python & Backend Engineer"
+        self.role        = "Software Python & Backend Engineer"
         self.location    = "🌍 Open to Remote Worldwide"
         self.languages   = ["Python", "JavaScript", "Bash", "SQL", "Go (learning)"]
         self.focus       = ["Scalable APIs", "Microservices", "System Design", "DevOps"]
@@ -45,7 +45,7 @@ class SeniorEngineer:
     def fun_fact(self):
         return "I benchmark everything — even my morning coffee routine ☕"
 
-me = SeniorEngineer()
+me = SoftwareEngineer()
 ```
 
 ---
