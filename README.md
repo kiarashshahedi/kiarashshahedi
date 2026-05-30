@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Kiarash+Shahedi+%F0%9F%91%8B;Senior+Python+%26+Backend+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey%2C+I'm+Kiarash+Shahedi+%F0%9F%91%8B;Software+Python+%26+Backend+Engineer)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kiarash-shahedi">
