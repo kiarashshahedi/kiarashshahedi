@@ -28,7 +28,7 @@
 class SoftwareEngineer:
     def __init__(self):
         self.name        = "Kiarash Shahedi"
-        self.role        = "Software Python & Backend Engineer"
+        self.role        = "Software (Python & Backend) Engineer"
         self.location    = "🌍 Open to Remote Worldwide"
         self.languages   = ["Python", "JavaScript", "Bash", "SQL", "Go (learning)"]
         self.focus       = ["Scalable APIs", "Microservices", "System Design", "DevOps"]
